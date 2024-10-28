@@ -13,3 +13,11 @@ A MATLAB App Designer application for performing basic calculations for differen
 1. Clone the repository:
    ```bash
    git clone https://github.com/gatemans/Basic-Calculation-Software-for-Heat-Exchangers.git
+
+## Usage
+. Open the app and select the type of heat exchanger.
+. Enter required parameters such as temperatures, flow rates, and dimensions.
+. Fill parameters
+. Click "Calculate" to view results.
+## Requirements
+MATLAB R2022b recommended.
