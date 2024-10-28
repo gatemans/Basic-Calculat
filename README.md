@@ -16,8 +16,12 @@ A MATLAB App Designer application for performing basic calculations for differen
 
 ## Usage
 . Open the app and select the type of heat exchanger.
+
 . Enter required parameters such as temperatures, flow rates, and dimensions.
+
 . Fill parameters
+
 . Click "Calculate" to view results.
+
 ## Requirements
 MATLAB R2022b recommended.
